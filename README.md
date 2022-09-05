@@ -1,4 +1,6 @@
-# BART API Demo
+# docker-huggingface-template
+
+A repository template for running huggingface models in a Docker container
 
 ## Setup
 ```sh
